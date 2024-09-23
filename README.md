@@ -6,7 +6,8 @@
 
 👯 Je suis ouverte à collaborer sur des projets liés au développement web, cloud computing, et aux pipelines DevOps.
 
-
 💬 Parlez-moi de mon expérience précédente avec Laravel et PHP, ainsi que de mon travail actuel avec Node.js, React,Vue js, et Express.js.
+
+ 📫 contacter moi sur : elgliouiyoucode@gmail.com
 
 
