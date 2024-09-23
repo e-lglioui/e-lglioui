@@ -1,6 +1,6 @@
 ## Bonjour 👋 Je suis Fatima Ez-zahra El Glioui
 
-🔭 Je suis une développeuse full-stack spécialisée dans le MERN stack, le DevOps, et AWS. Je suis actuellement en formation à YouCode UM6P.
+🔭 Je suis une développeuse full-stack spécialisée dans le MERN stack, le DevOps, et AWS. Je suis actuellement en formation à YouCode UM6P et en licence de science des données à l'Université Ibn Zohr.
 
 🌱 J'améliore constamment mes compétences dans les technologies cloud et l'automatisation DevOps, tout en travaillant sur des projets utilisant le MERN stack pour le développement web.
 
